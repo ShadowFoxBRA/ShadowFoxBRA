@@ -4,7 +4,7 @@
   
 - 🔭 Trabalhando com Python RPA e Azure DevOps
 - 🌱 Aprendendo Infrastructure and Python
-- ⚡ Fun fact: 
+
 <div style="display: inline_block"><br>
   </div>
 <div>
