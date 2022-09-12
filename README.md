@@ -20,4 +20,4 @@
   <img align="left" alt="Rafa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
-  ##
+![snake gif](https://github.com/ShadowFoxBRA/ShadowFoxBRA/blob/output/github-contribution-grid-snake.svg)
