@@ -2,7 +2,7 @@
 
 <div align="left">
   
-- 🔭 Trabalhando com Python RPA e Azure DevOps
+- 🔭 Trabalhando com Python e Azure DevOps
 - 🌱 Aprendendo Infrastructure and Python
 
 <div style="display: inline_block"><br>
